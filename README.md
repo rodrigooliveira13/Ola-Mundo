@@ -15,8 +15,11 @@ Lista numerada:
 Lista de tarefas:
 
 -[] criar a págnina principal
+
 -[] criar a ágina da loja
+
 -[] finalizar a reuinião com o cliente
+
 -[] teste da implementação
 
 
